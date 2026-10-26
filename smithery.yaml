@@ -1,0 +1,8 @@
+# Smithery MCP Server Configuration
+mcpServer:
+  name: nexus-serena-mcp
+  version: 1.2.0
+  description: "Semantic Coding Agent IDE Toolkit & Live Documentation Engine MCP Server by NexusVibe AI Tech"
+  command: python3
+  args:
+    - nexus_serena_mcp.py
